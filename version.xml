@@ -1,0 +1,8 @@
+<version>
+	<application>errorLogViewer</application>
+	<type>plugins.generic</type>
+	<release>1.0.0.0</release>
+	<date>2026-11-01</date>
+	<lazy-load>0</lazy-load>
+	<class>ErrorLogViewerPlugin</class>
+</version>

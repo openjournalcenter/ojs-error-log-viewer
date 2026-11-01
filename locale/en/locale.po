@@ -1,0 +1,95 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ErrorLogViewerPlugin\n"
+"POT-Creation-Date: 2026-11-01\n"
+"PO-Revision-Date: 2026-11-01\n"
+"Last-Translator: Error Log Viewer Team\n"
+"Language-Team: English\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "plugins.generic.errorLogViewer.displayName"
+msgstr "Error Log Viewer"
+
+msgid "plugins.generic.errorLogViewer.description"
+msgstr "Enables journal managers and administrators to inspect server error logs (PHP error_log) directly from the OJS dashboard without cPanel or SSH access."
+
+msgid "plugins.generic.errorLogViewer.menu"
+msgstr "Error Log"
+
+msgid "plugins.generic.errorLogViewer.title"
+msgstr "Server Error Log Viewer"
+
+msgid "plugins.generic.errorLogViewer.subtitle"
+msgstr "Monitor PHP errors and runtime exceptions to quickly diagnose issues without opening hosting cPanel."
+
+msgid "plugins.generic.errorLogViewer.logPath"
+msgstr "Active Log Path"
+
+msgid "plugins.generic.errorLogViewer.logSize"
+msgstr "File Size"
+
+msgid "plugins.generic.errorLogViewer.lastModified"
+msgstr "Last Modified"
+
+msgid "plugins.generic.errorLogViewer.lines"
+msgstr "Tail Lines"
+
+msgid "plugins.generic.errorLogViewer.refresh"
+msgstr "Refresh"
+
+msgid "plugins.generic.errorLogViewer.download"
+msgstr "Download Log"
+
+msgid "plugins.generic.errorLogViewer.clear"
+msgstr "Clear Log"
+
+msgid "plugins.generic.errorLogViewer.clearConfirm"
+msgstr "Are you sure you want to clear this error log? Existing log entries will be permanently deleted."
+
+msgid "plugins.generic.errorLogViewer.copyDiagnostics"
+msgstr "Copy Diagnostics for Support"
+
+msgid "plugins.generic.errorLogViewer.copied"
+msgstr "Diagnostic summary copied to clipboard!"
+
+msgid "plugins.generic.errorLogViewer.filter"
+msgstr "Filter Keyword / Error"
+
+msgid "plugins.generic.errorLogViewer.filterAll"
+msgstr "All Types"
+
+msgid "plugins.generic.errorLogViewer.filterFatal"
+msgstr "Fatal Error"
+
+msgid "plugins.generic.errorLogViewer.filterWarning"
+msgstr "Warning"
+
+msgid "plugins.generic.errorLogViewer.filterNotice"
+msgstr "Notice / Deprecated"
+
+msgid "plugins.generic.errorLogViewer.empty"
+msgstr "The error log file is empty or no errors have been recorded."
+
+msgid "plugins.generic.errorLogViewer.notFound"
+msgstr "No standard PHP error log file found. You can configure a custom absolute path in settings."
+
+msgid "plugins.generic.errorLogViewer.customPath"
+msgstr "Custom Log File Path (Optional)"
+
+msgid "plugins.generic.errorLogViewer.customPathDescription"
+msgstr "If your web server stores PHP logs in a non-standard location, enter the absolute file path here."
+
+msgid "plugins.generic.errorLogViewer.saveSettings"
+msgstr "Save Log Path"
+
+msgid "plugins.generic.errorLogViewer.settingsSaved"
+msgstr "Log path settings saved successfully."
+
+msgid "plugins.generic.errorLogViewer.cleared"
+msgstr "Error log file cleared successfully."
+
+msgid "plugins.generic.errorLogViewer.unauthorized"
+msgstr "You are not authorized to view system logs."
